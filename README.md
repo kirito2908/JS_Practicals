@@ -1,0 +1,1 @@
+This is for practical projects of Javascript
